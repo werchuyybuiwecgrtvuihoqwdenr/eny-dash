@@ -1,0 +1,8 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Full-bleed background required for maskable icons -->
+  <rect width="512" height="512" fill="#131417"/>
+
+  <!-- Monogram E, scaled down and centered within the ~80% safe zone -->
+  <path d="M196 176H332V216H244V236H320V276H244V296H332V336H196V176Z" fill="#F5F6F7"/>
+  <circle cx="346" cy="336" r="20" fill="#4D8EFF"/>
+</svg>

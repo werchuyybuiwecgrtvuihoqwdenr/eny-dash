@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="112" fill="#131417"/>
+  <rect x="1" y="1" width="510" height="510" rx="111" fill="none" stroke="#26282d" stroke-width="2"/>
+
+  <!-- Monogram E -->
+  <path d="M168 144H344V200H224V232H328V288H224V320H344V376H168V144Z" fill="#F5F6F7"/>
+
+  <!-- Accent dot -->
+  <circle cx="376" cy="376" r="32" fill="#4D8EFF"/>
+</svg>
