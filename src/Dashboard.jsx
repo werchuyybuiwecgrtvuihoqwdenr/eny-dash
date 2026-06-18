@@ -51,7 +51,7 @@ const teamRoster = [
 ];
 
 // ---------- Helpers ----------
-const fmtMoney = (n) => `£${n.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
+const fmtMoney = (n) => `$${n.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
 const pct = (cur, goal) => Math.min(100, (cur / goal) * 100);
 
 const colors = {
